@@ -108,7 +108,7 @@ list = [
 方向 = 0
 // 每一個速度移動的燈的數據
 control.inBackground(function () {
-    燈(0, 500)
+    燈(0, 800)
 })
 // 每一個速度移動的燈的數據
 control.inBackground(function () {
@@ -116,13 +116,13 @@ control.inBackground(function () {
 })
 // 每一個速度移動的燈的數據
 control.inBackground(function () {
-    燈(2, 300)
+    燈(2, 200)
 })
 // 每一個速度移動的燈的數據
 control.inBackground(function () {
-    燈(3, 200)
+    燈(3, 100)
 })
 // 每一個速度移動的燈的數據
 control.inBackground(function () {
-    燈(4, 100)
+    燈(4, 50)
 })
